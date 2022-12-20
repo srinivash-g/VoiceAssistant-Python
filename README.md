@@ -6,5 +6,7 @@ This  Software  program use devices microphone to receive voice requests and pro
 
 -The natural language audio signal is converted into digital data that can be analyzed  by the software.
 
+-main.py file contains the code
+
 ![image](https://user-images.githubusercontent.com/85980137/208608818-c85bbb9b-b120-4700-841d-1385469e12a8.png)
 
